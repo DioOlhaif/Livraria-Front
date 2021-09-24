@@ -1,3 +1,17 @@
+# API Livraria.Front :book:
+
+
+
+Parte de front da API que retorna produtos de uma Ecommerce de livros 
+
+* Angular CLI 12.2.5.
+
+
+* Node.JS
+
+
+
+
 # BOOKSTOREFRONT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
